@@ -1,0 +1,19 @@
+{
+  "name": "space-explorer",
+  "version": "0.0.1",
+  "description": "Experimental game made using phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxemiliang/space-explorer.git"
+  },
+  "author": "maxemiliang contact@maxemiliang.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxemiliang/space-explorer/issues"
+  },
+  "homepage": "https://github.com/maxemiliang/space-explorer#readme"
+}
